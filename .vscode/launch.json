@@ -1,0 +1,4 @@
+{
+  "version": "0.2.0",
+  "configurations": [{"name": "Fit mall customer clusters", "type": "debugpy", "request": "launch", "module": "mall_clustering", "args": ["train"], "cwd": "${workspaceFolder}", "console": "integratedTerminal", "justMyCode": true}]
+}
